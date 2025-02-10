@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hyperpay_sdk_zip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OPPWAMobile.xcframework.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ipworks3ds_sdk_deploy.xcframework.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
